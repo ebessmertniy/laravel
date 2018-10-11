@@ -1,6 +1,6 @@
 {
     "name": "ebessmertniy/laravel",
-    "type": "library",
+    "type": "package",
     "minimum-stability": "dev",
     "require": {}
 }
